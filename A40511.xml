@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From our Womens meeting held at York, the 15, and 16th. days of the fourth month, 1692. To every particular womans monthly meeting; within this county</title>
+            <author>Society of Friends. Yorkshire Quarterly Meeting of Women Friends.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40511</idno>
+            <idno type="STC">Wing F2239B</idno>
+            <idno type="STC">ESTC R214638</idno>
+            <idno type="EEBO-CITATION">99826745</idno>
+            <idno type="PROQUEST">99826745</idno>
+            <idno type="VID">31151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1829:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From our Womens meeting held at York, the 15, and 16th. days of the fourth month, 1692. To every particular womans monthly meeting; within this county</title>
+                  <author>Society of Friends. Yorkshire Quarterly Meeting of Women Friends.</author>
+                  <author>Boulbie, Judith.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Judith Boulbie [and 13 others].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31151:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 81 -->
+            <head>From our Womens Meeting held at <hi>York,</hi> the 15, and
+16th. days of the Fourth Month, 1692.</head>
+            <head type="sub">To every particular Womans Monthly Meeting within
+this County.</head>
+            <p>DEAR Friends, and tender Siſters? We dear<g ref="char:EOLhyphen"/>ly Salute you in the
+Love of God, and his pretious truth, wherein he hath loved us, and united us
+unto himſelf, and one unto another. And hath concerned us, according to our
+meaſure for his honour, and the proſperity of his truth, in and a<g ref="char:EOLhyphen"/>mongſt
+us, liveing praiſes to him for ever. We being met together in his fear to
+wait upon him for Wiſdome and Counſell to order us, in all our
+undertakeings, re<g ref="char:EOLhyphen"/>lating to Church affaires: Truth's comly order; and the
+righteous Goverment thereof, ſuch hath been the aboundings of the love of God
+amongſt us, through the operation of his bleſſed ſpirit, that a double
+obli<g ref="char:EOLhyphen"/>gation is laid upon us to love him, and to ſerve and obey him while we
+have a day, and a time, on this ſide the grave.</p>
+            <p>And many heavenly teſtimonys hath been born a<g ref="char:EOLhyphen"/>mongſt us for
+our encouragment in the demonſtration of the Lords power ſo that we are
+well ſatisfied, that God almighty accepts our ſervice and delights in the
+care, and exerciſe, wherein we have been concerned: And diver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfortable
+teſtimonys, hath been brought in writing (and read amongſt us) from
+ſeverall of our <pb facs="tcp:31151:2"/>
+               <!-- PDF PAGE 82 -->
+               <pb n="1" facs="tcp:31151:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 82 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="2" facs="tcp:31151:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 83 -->Women Monthly Meetings
+of the care and concerne of Friends, for truths honour and the proſperity
+thereof amongſt them; And we find it our duty to encourage you, our dear
+Siſters in every of your reſpective places and we ſervently deſire your
+perſevering in your dili<g ref="char:EOLhyphen"/>gence and care in keeping your Monthly Meetings in
+the love and power of the Lord, waiting upon him, for counſell and wiſdom
+to be enabled by him, in all your undertakeings to act for his glory, haveing
+nothing in in your eye but his honour and the proſperity of the truth, and
+the preſervation of his people therein: And let none <hi>who have put their
+hands to the plow, look back</hi> nor who have bowed their necks to the yoak of
+Chriſt and their ſhoulders to the burden, wax weary. And though you meet
+with divers exerciſes, yet be not diſcouraged. but be carefull, to
+diſcharge your duty to god, and clear your conſciences one unto another in
+the love of God, and in the ſpirit of meekneſs, and in due time you will
+reap your reward. And therefore be fervent and zealous for the truth, for there
+is as great need now as ever: For although the Lord hath given us a day of
+liberty and eaſe, as to the outward, yet we have and unwearyed enemy, and
+cuning adverſary to <hi>Sions</hi> pro<g ref="char:EOLhyphen"/>ſperity which envyeth our hapyneſs
+and is not will<g ref="char:EOLhyphen"/>ing to miſs any oppertunity, but uſeth all his endea<g ref="char:EOLhyphen"/>vours
+inwardly to captivate the ſoul and to hinder the groath &amp; dominion of
+that pretious life, that hath right to rule: and this he attempts to do, by
+drawing out the minds of ſuch as (in this day of liberty) are not Watchfull
+in the light of the Lord, into vain cuſtomes and the fooliſh faſhions of
+the world, too much inter<g ref="char:EOLhyphen"/>mixting with the ſpirit of it, fooliſhly to be
+led away into the defiments thereof. And hath prevailed upon others, to be
+makers breaches, and ſowers o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrife and <pb n="3" facs="tcp:31151:3"/>
+               <!-- PDF PAGE 83 -->diſcord,
+and to become accuſers of the brethren, and at length to be led away into a
+ſeperation from friends, and the unity of truth once by them received, and
+be<g ref="char:EOLhyphen"/>ſeived in. The Lord Rebuke that ſpirit is our earneſt deſire, and if
+it be his will opon the eye of the mindes of ſuch, that they may ſee the
+effects of their doings. How the truth by them is reproached, the hearts of the
+faithfull ſadned: And God almighty keep us, near unto himſelf, and one unto
+another, greatly valueing, thoſe great mercys and priviledges we have
+afforded us, in the peaceable Injoying our meetings in the worſhip and
+ſervice of our God, according to the manifeſtation of his bleſſed
+ſpirit in us: And that we labour to make a right uſe, of every of theſe
+opportunitys, put into our hands, Not knowing how ſoon we may meet with
+exerciſes again, nor after what manner they may come, yea, a Winnowing
+Seaſon, <hi>a day that ſhall burn as an O<g ref="char:EOLhyphen"/>ven, Wherein the proud and
+thoſe that worke wickedneſs will be as Stuble. But the wheat will the Lord
+gather into his ga<g ref="char:EOLhyphen"/>rner, when the Chaffe ſhall be burnt with unquenchable
+fire.</hi> And therefore Dear Friends every where be warned, to keep low in
+your Minds <hi>For wo will be to the Crowne of pride;</hi> Which often goes
+before deſtruction and an haughty ſpirit before a fall. And Dear Friends
+you whom the Lord hath gathered out of <hi>Babilons,</hi> Con<g ref="char:EOLhyphen"/>fuſion and hath
+preſerved from partakeing with her, of her vain delights and pleaſures, and
+therefore not to partake of her plagues: keep to your antient Rock and ſtrong
+tower, <hi>to which the Righteous in all ages Fled and were ſafe:</hi> For
+there is refuge and ſure hideing place, in all ſtormes and tempeſts, And
+feel that arm and power that gathered you to God in the beginning, that thereby
+you may be kept little and low before him, of humble minds, of broken hearts
+and contrite <pb n="4" facs="tcp:31151:4"/>
+               <!-- PDF PAGE 84 -->ſpirits,
+trembling at the word of the Lord. And be as watches on <hi>Syon</hi> walls
+that when the danger doth approach you may eſcape and Give warning to thoſe
+that are wandred and led aſtray, by the wils of the enemy from the faſe
+habitation, and that as the Lord may direct and lay it on you, you may
+adviſe, <hi>with ex<g ref="char:EOLhyphen"/>bortation, and reproofe, to haſten with ſpeed to the
+inward Court and not to be found in the outward where the Gen<g ref="char:EOLhyphen"/>tiles ſees
+muſt tread:</hi> And if the rebellious ſleight your Counſell and hate
+your advice, If ſuch be taken away in their Iniquity you will be cleare, and
+the Lord will be clear, <hi>and their blood will be upon their own heads.</hi>
+And you who are mothers of Children, and in duty to God, bound to order your
+famliyes aright as be<g ref="char:EOLhyphen"/>come the truth, in the place God alimghty hath ſet you:
+See that in your words and actions and in your apparell, and all others things
+under your concern, you be good examples to your Children and Servants, and Do
+not Indulge or Connive at any thing in them that may offend the Lord or grei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+his good ſpirit, Do not allow or ſuffer them to wear any thing, that may
+render them juſtly deſerving thoſe Calamitys, which in Judgment from God,
+may juſtly fall upon this ge<g ref="char:EOLhyphen"/>neration of evill doors, for the pride and
+haughteneſs of the people thereof, uſe your endeavours, to hinder their
+Imitating the proud fantaſticall faſhions of this world, as high
+dreſſed heads with Ruffles and double Gauſe, and all other<g ref="char:punc">▪</g> things
+in attire that is ſuperfluous, or any way diſhonourable to truth as Stript
+Gounes, of divers Colours wrapt into a narrow Compaſs hang<g ref="char:EOLhyphen"/>ing behind them:
+All which we Judge to be, unbe<g ref="char:EOLhyphen"/>comeing truth, Nor ſutable to our holy
+profeſſion nor the plainneſs of the Truth we have received and beli<g ref="char:EOLhyphen"/>eved
+in. For truth is lowly and plain, and made thoſe <pb n="5" facs="tcp:31151:4"/>
+               <!-- PDF PAGE 84 -->a plain people in the beginning who were
+ſubject to it, and is not changeable in it ſelf, Nor admites of any Change
+in us, And therefore we can do no leſs, but adviſe you to the plainneſs
+of it, Conſidering the good effects it hath wrought in, and through thoſe
+who are guided by it: Oh what true fear, what holy zeal, what plain dealing and
+great care was there in that day, to keep truth clear, on every hand, amongſt
+all who loved it, their Apparell plain, their Countinances ſolid, and grave,
+their words weighty few and ſavory, ſuch as Miniſtered grace to the
+hearers: And there is a word further, in our hearts to you young Women, keep in
+the line of life, and Language of truth, ſaying one unto another, <hi>Ariſe
+Virgins Daughters of</hi> Sion <hi>and ſhake your ſelves from the duſt of
+the earth and put on beautyfull Garments,</hi> even the Robes of
+Righteouſneſs the Saints Cloathing, and humble your ſelves to the Croſs
+of Chriſt, you who have decked your ſelves above the ſimplicity thereof
+and let that <hi>Crucif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e you, to the World, and the world to you dayly:</hi>
+and be you willing to walk in that narrow path of ſelf denyal; the narrow way
+that lead, to life, and the Lord will adorn you with a meek, and a quiet
+ſpirit, which is with him of great price, and will inwardly make you
+beautyfull, as the Kings Daugh<g ref="char:EOLhyphen"/>ters; for it is the very labour and travell of
+our ſoules <hi>that</hi> Sion <hi>may become the Beauty of all nations, and
+the praiſe of the whole earth.</hi> And that the wanderes, and the
+ſcattered a broad through the letting in of a care<g ref="char:EOLhyphen"/>leſs and forgetfull mind
+of the mercys of the Lord un<g ref="char:EOLhyphen"/>to them, in the day of his firſt love: may be
+again gathered unto him <hi>and into the footſteps of the flocks of his
+Companions,</hi> to enter in at the right door into the fould of reſt and
+ſafety, and into the perfect peace which God gives and none can take away.
+And that you who <pb n="6" facs="tcp:31151:5"/>
+               <!-- PDF PAGE 85 -->loves the
+truth, and are ſpringing up as plants therein, may gradualy grow from
+ſtrength to ſtrength and from one degree of grace unto another, untill you
+become as Nurſſing Mothers in <hi>Iſrael,</hi> in your day and age and
+(as <hi>Deborah</hi>) concerned in your meaſure, of life, and the ſtation
+God almighty hath placed you, under the Government of Gods power &amp;
+ſubſervant thereunto to Rule for him, to the praiſe of him who loved
+&amp; accounted us worthy.</p>
+            <p>And that (as <hi>Dorcas</hi>) you may conſider the poor and
+make proviſion for the Widdows and fatherleſs, and as other faithfull women
+in generations gone, which might be mentioned, and many more of this generation
+removed from us out of the body, worthy to be remem<g ref="char:EOLhyphen"/>bred of us, and the
+Memoriall of them liveth upon our ſpirits to our refreſhment in the Lord,
+and to the praiſe of his worthy name over all: Much might be ſaid, <hi>but
+we Recommend you, with our own ſouls to the word of truth</hi> in every of
+our own boſomes, which leads into all truth, and if diligently harkened unto
+will perfectly teach and direct us all in the way of righteouſneſs. Wherein
+we ſhall be well pleaſing to God, and his delight will be to do us good
+dayly: renewing his mercys unto us as the morning, in the continuance of his
+ancient love, in the freſh ſence whereof we are concern'd both young and
+old according to our meaſures to be true and faith<g ref="char:EOLhyphen"/>full in the work (through
+Gods help) whereunto we are called, as Co-workers and fellow-labourers in the
+ſervice of truth, meet helps one unto another in the Lord, and through his
+power whereunto ſhall be the praiſe, as worthy for ever: And let it be
+remembred by us all: that the <hi>woe was, and is to thoſe that doth the Work
+of the Lord negligently,</hi> Therefore dear Freinds, ſet us be carefull in
+our age and day, according to the diſpenſation of the grace of God
+committed to us, to <pb n="7" facs="tcp:31151:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 85 -->ſerve
+the Lord in faithfullneſs with one conſent, ſeck<g ref="char:EOLhyphen"/>ing his honour alone
+unto whom it doth belong, from henceforth and for ever.</p>
+            <p>And it is deſired that this our Teſtimony, and advice with
+other Teſtimonys given forth by us heretofore after once peruſeing and
+reading over, may not be caſt by, and loſt, but that one of every ſort of
+our papers may be kept in every perticuler meeting in the Coun<g ref="char:EOLhyphen"/>ty, and as
+Occaſion and oppertunity may require they may be read and the advice and
+Counſell therein contained, may be obſerved and followed that our Labour
+and Travel in the truth may be anſwered, and that Friends in generall may
+reap the benefit thereof: And that our next yearly Meeting, may be attended:
+with ſome faithfull Women from each monthly Meeting to bring in their
+Teſtimonys, con<g ref="char:EOLhyphen"/>cerning their care of the good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd comely. Order of truth
+that we may be comforted together, as at this time we have been by the
+aboundings of the love of God unto us, worthy to be honoured by us, the days we
+have to live, unto whome honour doth belong now, and for evermore.</p>
+            <closer>
+               <signed>
+                  <hi>Subſcribed in the Name and on behalf of the
+Meeting.</hi> 
+                  <list>
+                     <item>
+                        <hi>Judith Boulbie.</hi>
+                     </item>
+                     <item>
+                        <hi>Katheren Winn.</hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Beckwith.</hi>
+                     </item>
+                     <item>
+                        <hi>Margaret Bracking.</hi>
+                     </item>
+                     <item>
+                        <hi>Sarah Engliſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Jſabell Morris.</hi>
+                     </item>
+                     <item>
+                        <hi>Elizabeth Moore.</hi>
+                     </item>
+                     <item>
+                        <hi>Frances Tayler,</hi>
+                     </item>
+                     <item>
+                        <hi>Mary White.</hi>
+                     </item>
+                     <item>
+                        <hi>Katherin Ratlife.</hi>
+                     </item>
+                     <item>
+                        <hi>Dorathy Wells.</hi>
+                     </item>
+                     <item>
+                        <hi>Anne Alliſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Debora Winn.</hi>
+                     </item>
+                     <item>
+                        <hi>Grace Hemſley.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:31151:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:31151:6"/>
+            <!-- PDF PAGE 86 -->
+         </div>
+      </body>
+   </text>
+</TEI>
